@@ -48,8 +48,10 @@
 <p align="center">
   <!-- Streak Widget: Dark Theme -->
   <img src="https://streak-stats.demolab.com/?user=oki-dokii&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="160"/>
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=oki-dokii&color=green&style=for-the-badge" alt="Profile views" height="32"/>
+</p>
+<p align="center">
+  <b>👁️ Profile Views</b><br>
+  <img src="https://komarev.com/ghpvc/?username=oki-dokii&color=1abc9c&style=for-the-badge" alt="Profile views" height="64"/>
 </p>
 
 ---
